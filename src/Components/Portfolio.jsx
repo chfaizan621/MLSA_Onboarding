@@ -31,28 +31,28 @@ const imageAltText = "light bulb image";
  */
 const projectList = [
   {
-    title: "Blog Website",
+    title: "Gym Management System",
     description:
-      "This is my blog website where I write about my experiences and learning sin the tech and development Industry.",
-    url: "https://chfaizan621.github.io/Gym_Management_System/",
+      "Created this website using HTML, CSS and PHP which supports a complete gym management system. It performs all the CRUD operations and the database used in this project is MySQL.",
+    url: "https://github.com/chfaizan621/Gym_Management_System",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Univents Mobile Application",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed Univents mobie application which is a flutter based application and shows all the details about the upcoming Events in a particular University.",
+    url: "https://github.com/chfaizan621/univent",
   },
   {
-    title: "My Resume Site",
+    title: "Visual Programming Tasks",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Solved some tasks using c# and .NET framework. Includes my experience and design abilities.",
+    url: "https://github.com/chfaizan621/212039_VPLab",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "MLSA Application Video",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Video to answer a question of my MLSA application. This video can help beginners when applying for MLSA.",
+    url: "https://www.youtube.com/watch?v=_h9bO0Csh2Q",
   },
 ];
 
